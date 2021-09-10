@@ -646,6 +646,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+- [CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources#readme) - Resources to help you grow as a CTO.
 
 ## Work
 
